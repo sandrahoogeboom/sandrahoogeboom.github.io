@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sandra Hoogeboom 
 
 You can use the [editor on GitHub](https://github.com/sandrahoogeboom/sandrahoogeboom.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
